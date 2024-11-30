@@ -10,3 +10,5 @@ bin-int/
 *.vcxproj.filters
 *.vcxproj.user
 *.sln
+
+*Makefile
